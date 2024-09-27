@@ -5,4 +5,5 @@ i must give credit to jose, tony, aaron, neng, for using their codes as referenc
 
 i had many setbacks when making this project. even the name itself 'V2' isn't really a V2, more like a V4.
 
+
 i want to come back to this in the future and remake it from the ground up. i know what i struggled with, and how i can improve. i'll strive to do better in my projects moving forward. 
